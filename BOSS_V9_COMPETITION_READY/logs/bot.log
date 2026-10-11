@@ -1,0 +1,1602 @@
+[SYSTEM] BOSS V9 AWS | namespace=boss-v8-math-week | poll=60s | rebalance=120s | execution=LOCAL_SIMULATOR | turnover=UNLIMITED
+2026-10-11 02:34:24,207 [INFO] boss: starting equity=100000.00 tradable_markets=86 shorts_api=True db=data/boss_v8_live.sqlite3
+2026-10-11 02:34:24,207 [INFO] boss: turnover cap=disabled; order cap=disabled; portfolio halt thresholds daily=disabled drawdown=disabled; short collateral is cash-funded
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:34:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:35:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:36:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:37:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:38:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 02:39:24,635 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:39:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:40:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:41:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:42:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:43:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 02:44:24,865 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:44:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:45:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:46:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:47:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:48:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 02:49:25,145 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:49:25 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:50:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:51:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:52:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:53:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 02:54:25,186 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:54:25 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:55:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:56:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:57:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:58:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 02:59:24,840 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 02:59:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:00:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:01:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:02:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:03:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 03:04:24,754 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:04:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:05:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:06:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:07:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:08:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 03:09:24,804 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:09:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:10:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:11:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:12:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:13:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 03:14:24,956 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:14:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:15:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:16:26 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 118s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:17:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:18:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 03:19:24,989 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:19:25 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:20:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:21:25 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:22:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:23:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 03:24:24,879 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:24:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:25:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:26:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:27:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:28:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 03:29:24,845 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:29:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:30:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:31:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:32:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:33:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,000.00 | BOSS P&L $+0.00 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 0.00% | CASH $100,000.00
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=0.0% | strength=0.000 | 4h=+0.00% | 12h=+0.00% | 24h=+0.00% | long gross=0.00% | short collateral target=0.00%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: warming up
+TURNOVER $0.00 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+
+SHORT SIGNALS
+
+SPOT POSITIONS
+  NONE
+
+SHORT POSITIONS
+  NONE
+
+EXECUTION
+======================================================================================================================
+2026-10-11 03:34:25,104 [INFO] boss: refreshed exchangeInfo; returned 88 pair definitions
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:34:25 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 119s
+EQUITY $99,946.89 | BOSS P&L $-53.11 (-0.05%) from $100,000.00 competition baseline | GROSS EXPOSURE 42.51% | CASH $57,457.51
+RISK daily=+0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=16.3% | strength=0.215 | 4h=-0.08% | 12h=-0.08% | 24h=+1.60% | long gross=35.00% | short collateral target=7.50%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: insufficient samples: 0/5000
+TURNOVER $42,499.99 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+  UNI/USD        score=0.724 target= 7.00% edge=+0.68% pred=+0.00% conf=   0% trend+relative+quality
+  LINEA/USD      score=0.647 target= 7.00% edge=+0.32% pred=+0.00% conf=   0% trend+relative+quality
+  CFX/USD        score=0.640 target= 7.00% edge=+3.34% pred=+0.00% conf=   0% trend+relative+quality
+  ARB/USD        score=0.640 target= 7.00% edge=+0.75% pred=+0.00% conf=   0% trend+relative+quality
+  S/USD          score=0.636 target= 7.00% edge=+1.09% pred=+0.00% conf=   0% trend+relative+quality
+
+SHORT SIGNALS
+  PUMP/USD       score=0.646 collateral= 7.50% edge=+0.67% pred=+0.00% conf=   0% downtrend+relative+quality
+
+SPOT POSITIONS
+  ARB/USD        $ 7,000.00 pnl= +0.00% age=   0.0m entry=0.1899
+  UNI/USD        $ 6,999.08 pnl= -0.01% age=   0.0m entry=7.636
+  S/USD          $ 6,998.54 pnl= -0.02% age=   0.0m entry=0.04819
+  LINEA/USD      $ 6,997.60 pnl= -0.03% age=   0.0m entry=0.002911
+  CFX/USD        $ 6,995.54 pnl= -0.06% age=   0.0m entry=0.06274
+
+SHORT POSITIONS
+  PUMP/USD       coll=$7,500.00 value=$7,498.63 pnl= -0.02% age=   0.0m entry=0.005466
+
+EXECUTION
+  SHORT_OPEN  PUMP/USD       ~$7,500.00
+  BUY         UNI/USD        ~$7,000.00
+  BUY         LINEA/USD      ~$7,000.00
+  BUY         CFX/USD        ~$7,000.00
+  BUY         ARB/USD        ~$7,000.00
+  BUY         S/USD          ~$7,000.00
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:35:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $99,965.40 | BOSS P&L $-34.60 (-0.03%) from $100,000.00 competition baseline | GROSS EXPOSURE 42.52% | CASH $57,457.51
+RISK daily=-0.01% drawdown=+0.01% halted=False
+REGIME DEFENSIVE | breadth=20.9% | strength=0.227 | 4h=-0.04% | 12h=-0.04% | 24h=+1.64% | long gross=35.00% | short collateral target=7.50%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: insufficient samples: 0/5000
+TURNOVER $42,499.99 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+  UNI/USD        score=0.723 target= 7.00% edge=+0.82% pred=+0.00% conf=   0% trend+relative+quality
+  LINEA/USD      score=0.646 target= 7.00% edge=+0.44% pred=+0.00% conf=   0% trend+relative+quality+breakout
+  CFX/USD        score=0.639 target= 7.00% edge=+3.96% pred=+0.00% conf=   0% trend+relative+quality+breakout
+  ARB/USD        score=0.637 target= 7.00% edge=+0.77% pred=+0.00% conf=   0% trend+relative+quality
+  S/USD          score=0.596 target= 7.00% edge=+0.65% pred=+0.00% conf=   0% trend+relative+quality
+
+SHORT SIGNALS
+  PUMP/USD       score=0.642 collateral= 7.50% edge=+0.41% pred=+0.00% conf=   0% downtrend+relative+quality
+
+SPOT POSITIONS
+  CFX/USD        $ 7,039.05 pnl= +0.56% age=   1.0m entry=0.06274
+  UNI/USD        $ 7,010.08 pnl= +0.14% age=   1.0m entry=7.636
+  LINEA/USD      $ 7,007.21 pnl= +0.10% age=   1.0m entry=0.002911
+  ARB/USD        $ 7,003.69 pnl= +0.05% age=   1.0m entry=0.1899
+  S/USD          $ 6,975.30 pnl= -0.35% age=   1.0m entry=0.04819
+
+SHORT POSITIONS
+  PUMP/USD       coll=$7,500.00 value=$7,472.56 pnl= -0.37% age=   1.0m entry=0.005466
+
+EXECUTION
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:36:25 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 118s
+EQUITY $99,992.22 | BOSS P&L $-7.78 (-0.01%) from $100,000.00 competition baseline | GROSS EXPOSURE 42.47% | CASH $57,522.28
+RISK daily=-0.01% drawdown=+0.01% halted=False
+REGIME DEFENSIVE | breadth=22.1% | strength=0.231 | 4h=-0.06% | 12h=-0.06% | 24h=+1.57% | long gross=35.00% | short collateral target=7.50%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: insufficient samples: 0/5000
+TURNOVER $42,610.29 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+  UNI/USD        score=0.714 target= 7.00% edge=+0.82% pred=+0.00% conf=   0% trend+relative+quality
+  CFX/USD        score=0.687 target= 7.00% edge=+3.94% pred=+0.00% conf=   0% trend+relative+quality+breakout
+  ARB/USD        score=0.648 target= 7.00% edge=+0.97% pred=+0.00% conf=   0% trend+relative+quality
+  LINEA/USD      score=0.641 target= 7.00% edge=+0.55% pred=+0.00% conf=   0% trend+relative+quality+breakout
+  S/USD          score=0.603 target= 7.00% edge=+0.68% pred=+0.00% conf=   0% trend+relative+quality
+
+SHORT SIGNALS
+  PUMP/USD       score=0.634 collateral= 7.50% edge=+0.40% pred=+0.00% conf=   0% downtrend+relative+quality
+
+SPOT POSITIONS
+  UNI/USD        $ 6,999.53 pnl= +0.14% age=   2.0m entry=7.636
+  ARB/USD        $ 6,999.47 pnl= +0.26% age=   2.0m entry=0.1899
+  CFX/USD        $ 6,999.46 pnl= +0.57% age=   2.0m entry=0.06274
+  LINEA/USD      $ 6,999.46 pnl= +0.24% age=   2.0m entry=0.002911
+  S/USD          $ 6,999.46 pnl= -0.33% age=   2.0m entry=0.0481895
+
+SHORT POSITIONS
+  PUMP/USD       coll=$7,500.00 value=$7,472.56 pnl= -0.37% age=   2.0m entry=0.005466
+
+EXECUTION
+  SELL        CFX/USD        ~$40.70
+  SELL        ARB/USD        ~$18.96
+  SELL        LINEA/USD      ~$17.37
+  SELL        UNI/USD        ~$10.55
+  BUY         S/USD          ~$22.70
+======================================================================================================================
+
+======================================================================================================================
+ROOSTOO QUANT BOSS V9.4 — LONG / SHORT
+======================================================================================================================
+TIME 2026-10-11 03:37:24 IST | EXECUTION LOCAL SIMULATOR | POLL 60s | REBALANCE 120s | NEXT 59s
+EQUITY $100,001.10 | BOSS P&L $+1.10 (+0.00%) from $100,000.00 competition baseline | GROSS EXPOSURE 42.48% | CASH $57,522.28
+RISK daily=-0.00% drawdown=+0.00% halted=False
+REGIME DEFENSIVE | breadth=24.4% | strength=0.246 | 4h=-0.06% | 12h=-0.06% | 24h=+1.54% | long gross=35.00% | short collateral target=7.50%
+MARKETS 86 | MODEL rank=GATED direction=GATED | samples=0 | dir=0.0% | corr=+0.000 | rankIC=+0.000 | bal=0.0% | top10net=+0.00% | brier=1.000
+MODEL GATE: insufficient samples: 0/5000
+TURNOVER $42,610.29 / UNLIMITED | ORDER CAP=UNLIMITED | GLOBAL HALTS=DISABLED
+
+LONG SIGNALS
+  CFX/USD        score=0.736 target= 7.00% edge=+3.81% pred=+0.00% conf=   0% trend+relative+quality
+  UNI/USD        score=0.723 target= 7.00% edge=+0.80% pred=+0.00% conf=   0% trend+relative+quality
+  ARB/USD        score=0.649 target= 7.00% edge=+0.96% pred=+0.00% conf=   0% trend+relative+quality
+  LINEA/USD      score=0.640 target= 7.00% edge=+0.53% pred=+0.00% conf=   0% trend+relative+quality
+  S/USD          score=0.599 target= 7.00% edge=+0.82% pred=+0.00% conf=   0% trend+relative+quality
+
+SHORT SIGNALS
+  PUMP/USD       score=0.638 collateral= 7.50% edge=+0.48% pred=+0.00% conf=   0% downtrend+relative+quality
+
+SPOT POSITIONS
+  S/USD          $ 7,008.20 pnl= -0.21% age=   3.0m entry=0.0481895
+  ARB/USD        $ 6,999.47 pnl= +0.26% age=   3.0m entry=0.1899
+  LINEA/USD      $ 6,999.46 pnl= +0.24% age=   3.0m entry=0.002911
+  UNI/USD        $ 6,998.61 pnl= +0.13% age=   3.0m entry=7.636
+  CFX/USD        $ 6,995.03 pnl= +0.51% age=   3.0m entry=0.06274
+
+SHORT POSITIONS
+  PUMP/USD       coll=$7,500.00 value=$7,478.05 pnl= -0.29% age=   3.0m entry=0.005466
+
+EXECUTION
+======================================================================================================================

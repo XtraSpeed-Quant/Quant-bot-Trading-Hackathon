@@ -1,0 +1,1 @@
+> **Research sandbox only:** the standalone examples below are not wired into the active BOSS V9 production strategy. The active pipeline is described in [strategy.md](strategy.md). Do not replace the live ranker during the competition based on in-sample performance; compare alternatives with the same chronological, purged walk-forward folds and realistic fees/slippage.

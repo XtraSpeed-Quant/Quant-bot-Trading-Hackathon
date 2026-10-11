@@ -1,0 +1,19 @@
+BOSS V9.4 DATABASE API COMPATIBILITY FIX
+
+Cause:
+The inspection patch calls BotDB.history_summary(...), but your installed src/db.py is from an earlier V9 archive that does not contain that method.
+
+Apply:
+1. Stop the bot if it is running.
+2. Extract this ZIP into your existing BOSS_V9_COMPETITION_READY project root.
+3. Allow replacement of ONLY src/db.py.
+4. Do NOT delete, rename, reset, or replace your data/ directory, .env, or SQLite database.
+5. From the project root run:
+
+   python -m unittest discover -s tests -v
+   python -m roostoo_bot --inspect
+
+This src/db.py is from the matching V9.4 source tree. The only code addition compared with the original V9 src/db.py is BotDB.history_summary(...), a read-only query over the existing prices table. It does not reset or modify stored trade or price history.
+
+Expected: --inspect prints [HISTORY] rows=..., snapshots=..., pairs=... instead of AttributeError.
+--inspect remains read-only and submits no orders.

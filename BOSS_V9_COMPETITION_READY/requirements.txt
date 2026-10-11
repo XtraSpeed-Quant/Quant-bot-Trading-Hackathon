@@ -1,0 +1,4 @@
+requests>=2.32,<3
+python-dotenv>=1.0,<2
+numpy>=2.0,<3
+tzdata>=2026.2,<2027
