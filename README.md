@@ -1,1 +1,0 @@
-# Quant-bot-Trading-Hackathon
